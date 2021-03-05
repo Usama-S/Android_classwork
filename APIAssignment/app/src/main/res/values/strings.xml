@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APIAssignment</string>
+
+    <string name="posts_url">http://jsonplaceholder.typicode.com/posts</string>
+</resources>
